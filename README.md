@@ -16,3 +16,9 @@ Learning PyTorch
 
    ![Matrix Multiplication & Basic Operation](https://github.com/user-attachments/assets/212bb619-0bb0-4a3c-86f9-2836e21fe18d)
 
+4. DAY - 4 (16/05/2025)
+   # Basics
+
+   ![Bascis](https://github.com/user-attachments/assets/cc957b81-1977-46b0-af4d-cedceb54697a)
+
+
